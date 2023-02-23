@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    
+
+}
+
+button{
+   margin-bottom: 2px;
+   width: 50px;
+   padding: 10px;
+   border-radius: 5px;
+   border-color: solid gray;
+   font-size: large;
+   cursor: pointer;
+   color: white;
+   background-color: black;
+   
+    
+}
+
+input{
+    margin: 22px;
+    padding-top: 20px;
+    width: 205px;
+    border-color: black;
+}
+
+.colour{
+    background-color: rgb(211, 150, 37);
+    color: black;
+}
